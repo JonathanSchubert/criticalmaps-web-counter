@@ -13,3 +13,6 @@ The functionality of counting the bikes in the visible map pane was added.
 # Run
 - Execute `./run_docker.sh`
 - View http://0.0.0.0:5000/
+
+# Example
+![example_scsreenshot](static/images/example_screenshot.png)
